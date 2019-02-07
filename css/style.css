@@ -1,0 +1,38 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700|Source+Sans+Pro:400,600');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Components */
+@import url('components/banner.css');
+@import url('components/container.css');
+@import url('components/buttons.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+@import url('components/illustrations.css');
+
+/* Utilities */
+html {
+    position: relative;
+    /*min-height: 100%;*/
+}
+
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  position: relative;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+

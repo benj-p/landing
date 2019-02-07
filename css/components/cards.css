@@ -1,0 +1,34 @@
+.card-how-it-works {
+  display: flex;
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  align-items: center;
+  margin: 10px 0;
+  max-width: 350px;
+  padding: 10px;
+}
+
+.card-how-it-works .step {
+  font-size: 56px;
+  padding: 0 16px;
+  text-shadow: 8px 8px 0px #2D88E9;
+}
+
+.card-how-it-works img {
+  width: 120px;
+  object-fit: cover;
+}
+
+.card-how-it-works h3 {
+  padding: 0 0 8px 16px;
+  margin: 0;
+  font-size: 20px;
+  text-align: left;
+}
+
+.card-how-it-works p {
+  padding: 0 16px 0 16px;
+  margin: 0;
+  font-size: 16px;
+  text-align: left;
+}
